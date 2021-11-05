@@ -166,8 +166,7 @@ h2 {
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
-    width: 1000px;
-    height: 200px;
+    padding: 3em;
     border-radius: 16px;
     gap: 50px;
     background-color: #3882F6;
@@ -182,7 +181,7 @@ h2 {
 
 .cta-left h3 {
     font-size: 24px;
-    color: #E5E7EB;
+    color: #f9faf8;
     margin-bottom: 0px;
 }
 
@@ -192,7 +191,7 @@ h2 {
 }
 
 .cta-right button {
-    border-color: #E5E7EB;
+    border-color: #f9faf8;
     border-width: 3px;
     border-style: solid;
     height: 40px;
